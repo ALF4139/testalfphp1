@@ -1,2 +1,2 @@
 # testalfphp1
-proyecto test de aplicacion web php
+Hola mi nombre es Alfredo Saavedra, soy electronico de profesion pero tambien programo algunas cosas
